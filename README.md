@@ -9,13 +9,13 @@ I'm **Kristian Perez**, a Computing Science - Software Practice student at the U
 
 <div align="left">
 <a href="https://github.com/kris-perezz/EDEN">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/EDEN.png" width="33%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/EDEN.png" width="30%"/>
 </a>
 <a href="https://github.com/kris-perezz/raster-graphics-editor">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/362314a08d174cd945ef4d68c5056de119d5e8dd/images/RAGE.png" width="33%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/362314a08d174cd945ef4d68c5056de119d5e8dd/images/RAGE.png" width="30%"/>
 </a>
 <a href="https://github.com/kennek4/Zen">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/Zen.png" width="33%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/Zen.png" width="30%"/>
 </a>
 </div>
 
