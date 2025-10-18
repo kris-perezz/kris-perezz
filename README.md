@@ -1,21 +1,32 @@
 # 💫 About Me:
 I'm **Kristian Perez**, a Computing Science - Software Practice student at the University of Alberta<br><br>I've been learning about 3D rendering, graphics programming, and rendering systems lately <br> so go checkout my recent projects 
 
-[**EDEN**](https://github.com/kris-perezz/EDEN) – a 3D engine that uses AI to generate scenes, built from scratch during a hackathon
+[**Zen**](https://github.com/ZenGameEngine/Zen) – a 2D game engine built from scratch currently work-in-progress
+
+[**SOUP**](https://github.com/kris-perezz/particle-system-editor) – a particle system editor built from scratch
 
 [**RAGE**](https://github.com/kris-perezz/raster-graphics-editor) – a raster graphics editor built from scratch
 
-[**Zen**](https://github.com/kennek4/Zen) – a 2D game engine built from scratch currently work-in-progress
+[**EDEN**](https://github.com/kris-perezz/EDEN) – a 3D engine that uses AI to generate scenes, built from scratch during a hackathon
+
+
+
+
 
 <div align="left">
-<a href="https://github.com/kris-perezz/EDEN">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/EDEN.png" width="30%"/>
+  <a href="https://github.com/ZenGameEngine/Zen">
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/e1d9d553aa138b4d88194d87d2b508a229a21b46/images/zen-gamedemo.png" width="40%"/>
 </a>
+  <a href="https://github.com/kris-perezz/particle-system-editor">
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/e1d9d553aa138b4d88194d87d2b508a229a21b46/images/zen-particles.png" width="40%"/>
+</a>
+</div>
+<div align="left">
 <a href="https://github.com/kris-perezz/raster-graphics-editor">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/362314a08d174cd945ef4d68c5056de119d5e8dd/images/RAGE.png" width="30%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/362314a08d174cd945ef4d68c5056de119d5e8dd/images/RAGE.png" width="40%"/>
 </a>
-<a href="https://github.com/kennek4/Zen">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/Zen.png" width="30%"/>
+<a href="https://github.com/kris-perezz/EDEN">
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/5e6f0eb4401e82261a96e7e0909d72c46b8a2379/images/EDEN.png" width="40%"/>
 </a>
 </div>
 
