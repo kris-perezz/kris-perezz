@@ -15,18 +15,18 @@ I'm **Kristian Perez**, a Computing Science - Software Practice student at the U
 
 <div align="left">
   <a href="https://github.com/ZenGameEngine/Zen">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/28d0d0867143527cfbfad48130f5c7a94c5d803f/assets/Zen-gameDemoGIF.gif" width="40%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/28d0d0867143527cfbfad48130f5c7a94c5d803f/assets/Zen-gameDemoGIF.gif" width="45%"/>
 </a>
   <a href="https://github.com/kris-perezz/particle-system-editor">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/28d0d0867143527cfbfad48130f5c7a94c5d803f/assets/Zen-1millionParticles.gif" width="40%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/28d0d0867143527cfbfad48130f5c7a94c5d803f/assets/Zen-1millionParticles.gif" width="45%"/>
 </a>
 </div>
 <div align="left">
 <a href="https://github.com/kris-perezz/raster-graphics-editor">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/eac1e47187aa0a81813a58e0a0d57c9c1fcba741/assets/rageGIF.gif" width="40%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/eac1e47187aa0a81813a58e0a0d57c9c1fcba741/assets/rageGIF.gif" width="45%"/>
 </a>
 <a href="https://github.com/kris-perezz/EDEN">
-  <img src="https://github.com/kris-perezz/kris-perezz/blob/28d0d0867143527cfbfad48130f5c7a94c5d803f/assets/eden.gif" width="40%"/>
+  <img src="https://github.com/kris-perezz/kris-perezz/blob/81f9ed30a229f10a2185a87afd4cad534348e8d2/assets/eden2.gif" width="45%"/>
 </a>
 </div>
 
