@@ -54,9 +54,9 @@ I'm **Kristian Perez**, a Computing Science - Software Practice student at the U
 <a href="https://nirzak-streak-stats.vercel.app/?user=kris-perezz&theme=tokyonight&hide_border=true">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kris-perezz&theme=tokyonight&hide_border=true" width="50%"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kris-perezz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kris-perezz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris-perezz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%"/>
-</a>
+</a> -->
 
 
 ### 🔝 Top Contributed Repo
